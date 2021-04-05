@@ -1,0 +1,22 @@
+{
+    "configs": [
+        {
+            "dificultad": "Facil",
+            "vidas": 5,
+            "pistas": 20,
+            "time": 4800
+        },
+        {
+            "dificultad": "Intermedio",
+            "vidas": 3,
+            "pistas": 3,
+            "time": 3600
+        },
+        {
+            "dificultad": "Dificil",
+            "vidas": 1,
+            "pistas": 2,
+            "time": 2700
+        }
+    ]
+}

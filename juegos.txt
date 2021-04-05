@@ -1,0 +1,30 @@
+adivinazas ✅ ✅ ✅ ✅
+ahorcado ✅ ✅ ✅ ✅
+cripto ✅ ✅ ✅ ✅
+cultura ✅ ✅ ✅ ✅
+encuentro lo ✅ ✅ ✅ (validacion de emoji)
+mate ✅ ✅ ✅ ✅
+memory ✅ ✅ ✅ ✅
+mix word ✅ ✅ ✅ ✅
+sopa de letras ✅ ✅ ✅ ✅
+logica booleana ✅ ✅ ✅ ✅
+escoge numero ✅ ✅ ✅ ✅
+python ✅ ✅ ✅ ✅
+buscamina ✅ ✅ ✅ ✅
+
+
+estadisticas ✅ ✅ ✅ ✅
+timer ✅ ✅ ✅ ✅
+
+blockear juego si ganas ✅ ✅ ✅ 
+
+
+mostrar las pistas mas legible
+diagrama de clases
+
+instrucciones
+narrativa
+
+arregar colores a prints de victoria y derrota
+
+hay dos juegos que entregan cable hdmi. Ahorcado

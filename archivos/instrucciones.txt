@@ -1,0 +1,41 @@
+Bienvenido a Escape Room Unimet.
+
+En este apartado podrás encontrar instrucciones que te ayudaran a tener una mejor experiencia de juego
+
+A la hora de moverte por los menús del juego, deberás introducir los índices y presionar enter de la acción que deseas realizar. Ejemplo:
+
+1. Comenzar Juego.
+2. Crear Usuario.
+3. Ver Estadisticas.
+4. Intrucciones.
+5. Salir
+==> (Número)[Enter]    
+
+
+En el menú principal tendrás varias opciones: Comenzar juego, Crear Usuario, Ver Estadisticas, Intrucciones, Salir
+
+Crear usuario: Te redirigira a un apartado donde se te solicitarán datos personales, así como una contraseña con el fin de poder crear un usuario que te permita jugar a Escape Room Unimet
+Ver Estadísticas: En este apartado podrás ver diversas estadísticas por categorías, así como exportar gráficos. Entre las opciones están disponibles: Leaderboard, ¿Cuáles son los cuartos más visitados por cada jugador?, ¿Quienes son los usuarios que más juegan?
+Instrucciones: Siempre podras consultar este apartado cuando tengas alguna duda del juego
+Comenzar juego: Acá podrás iniciar el videojuego
+
+Antes de iniciar deberás crear un usuario, si no lo has hecho, a la hora de comenzar el juego este te lo recordará. 
+
+Dificultades:
+
+En Escape Room Unimet existen 3 dificultades disponibles. En cada una dispondrás de menor cantidad de tiempo, vidas y pistas:
+
+1- Fácil: 5 vidas, 5 pistas y 1 hora para completar el reto
+2- Intermedio: 3 vidas, 3 pistas y 40 minutos para completar el reto
+3- Dificil: 1 vida, 2 pistas y 30 minutos para completar el reto
+
+
+Interfaz del videojuego:
+
+Durante todo el videojuego podrás saber cuántas vidas tienes, el número de pistas que te quedan, objetos que tienes en el inventario, cuanto tiempo te queda y en que habitacion te encuentras
+
+Minijuegos:
+
+Durante todo el escaperoom te iras encontrando con diversos retos. Algunos de estos estaran bloqueados, y necesitaras ciertos objetos para desbloquearlos. Estos objetos los conseguiras como recompensa al ganar retos.
+
+Finalmente, diviertete resolviendo los acertijos. 
